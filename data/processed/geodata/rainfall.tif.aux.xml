@@ -1,0 +1,326 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="11">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="12">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="13">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="14">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="15">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="16">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="17">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="18">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="19">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="20">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="21">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="22">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="23">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="24">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="25">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="26">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="27">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="28">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="29">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="30">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="31">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="32">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="33">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="34">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="35">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="36">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="37">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="38">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="39">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="40">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="41">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="42">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="43">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="44">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="45">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="46">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="47">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="48">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="49">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="50">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="51">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="52">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="53">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="54">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="55">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="56">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="57">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="58">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="59">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="60">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="61">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="62">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="63">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="64">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="65">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="66">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="67">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="68">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="69">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="70">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="71">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="72">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="73">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="74">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="75">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="76">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="77">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="78">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="79">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="80">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="81">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="82">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="83">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="84">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="85">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="86">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="87">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="88">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="89">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="90">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="91">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="92">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="93">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="94">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="95">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="96">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="97">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="98">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="99">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="100">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="101">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="102">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="103">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="104">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="105">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="106">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="107">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+  <PAMRasterBand band="108">
+    <NoDataValue>-3.40000000000000E+38</NoDataValue>
+  </PAMRasterBand>
+</PAMDataset>
