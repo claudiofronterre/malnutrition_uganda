@@ -80,7 +80,7 @@ ggspei <- gplot(spei) +
   facet_wrap(~ variable, 
              labeller = labeller(variable = function(x) gsub("\\.", " ", x)), 
              ncol = 12) +
-  scale_fill_viridis_c(na.value = NA) +
+  scale_fill_viridis_c(na.value = NA, direction = -1) +
   coord_equal() +
   theme_bw(base_size = 13) +
   labs(x = "", y = "", fill = "SPEI") +
@@ -99,13 +99,14 @@ ggevi <- gplot(evi) +
   facet_wrap(~ variable, 
              labeller = labeller(variable = function(x) gsub("\\.", " ", x)), 
              ncol = 12) +
-  scale_fill_viridis_c(na.value = NA) +
+  scale_fill_gradient(na.value = NA, low = "saddlebrown", high = "green3") +
   coord_equal() +
   theme_bw(base_size = 13) +
   labs(x = "", y = "", fill = "EVI") +
   guides(fill = guide_colourbar(title.position="top", title.hjust = 0.5)) +
   theme(line = element_blank(), axis.text = element_blank(), 
-        legend.position = "top", legend.title = element_text(face = "bold"))  
+        legend.position = "top", legend.title = element_text(face = "bold"),
+        legend.key.width = unit(x = 2, units = "cm"))  
 
 ggsave(plot = ggevi, filename = "figs/evi_ts.png", width = 9.5, height = 8)
 ggsave(plot = ggevi, filename = "figs/evi_ts.pdf", width = 9.5, height = 8)
